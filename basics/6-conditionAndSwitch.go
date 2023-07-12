@@ -4,7 +4,7 @@ import (
 	"log"
 )
 
-func main() {
+func Conditions() {
 	isTrue := false
 	num := 998
 	if !isTrue && num < 90 {
